@@ -79,7 +79,7 @@ section .row img {
 
 .portrait {
   width:  350px;
-  max width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
